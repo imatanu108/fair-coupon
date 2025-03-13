@@ -1,0 +1,55 @@
+# Node.js dependencies
+/node_modules/
+/backend/node_modules/
+/frontend/node_modules/
+
+# Build files
+/dist/
+/build/
+/backend/dist/
+/frontend/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+/backend/.env
+/frontend/.env
+
+# Database files
+/db/
+/data/
+/dump.rdb
+*.sqlite
+*.sqlite3
+*.db
+
+# Cache files
+/.cache
+/.turbo
+/.parcel-cache
+/frontend/.next
+/frontend/.vercel
+/frontend/.swc
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.lock
