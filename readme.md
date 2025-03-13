@@ -115,7 +115,7 @@ To prevent users from exploiting the system to claim multiple coupons unfairly, 
 ---
 
 ## 🌎 Live Demo
-🔗 **[Deployed Link]()**  
+🔗 **[Deployed Link](https://fair-coupon.vercel.app/)**  
 
 ---
 
