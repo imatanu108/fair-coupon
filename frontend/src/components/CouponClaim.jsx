@@ -8,6 +8,7 @@ const CouponClaim = () => {
     const claimCoupon = async () => {
         try {
             const requestUrl = `${config.apiUri}/api/coupons/claim`;
+            console.log(requestUrl)
             const response = await fetch(requestUrl);
 
             if (!response.ok) {
